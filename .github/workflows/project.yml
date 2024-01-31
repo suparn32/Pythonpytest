@@ -10,7 +10,7 @@ on:
 
 jobs:
   test:
-    runs-on: Windows-latest
+    runs-on: Ubuntu-latest
 
     steps:
     - name: Checkout code
